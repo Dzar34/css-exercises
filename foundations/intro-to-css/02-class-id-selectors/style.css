@@ -1,0 +1,16 @@
+.one-five {
+    background-color: #eba5c8;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+#number-two{
+    color: rgb(12, 12, 239);
+    font-size: 36px;
+}
+#number-four{
+    background-color: hsl(93, 82%, 66%);
+    font-size: 24px;
+    font-weight: bold;
+}
+.number-three{
+    font-size: 24px;
+}
