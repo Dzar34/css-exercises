@@ -1,0 +1,15 @@
+.yes-click,
+.no-click {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yes-click {
+    color: white;
+    background-color: black;
+}
+
+.no-click {
+    color: black;
+    background-color: rgb(220, 248, 81);
+}
